@@ -4,8 +4,8 @@ This is a website which i fuckin created for fun and for faking the madafucking 
 Fuck the shoits
 HellYeah  !!
 
-```rm -rf *
-mkdir hello
+```(rm -rf *
+mkdir hello)
 
 "This is text.
 This is text."
